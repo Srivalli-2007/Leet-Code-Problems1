@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0704-binary-search) |
 ## String
