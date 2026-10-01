@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0392-is-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
