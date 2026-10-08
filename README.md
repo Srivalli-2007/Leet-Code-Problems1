@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0643-maximum-average-subarray-i](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0050-powx-n) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
