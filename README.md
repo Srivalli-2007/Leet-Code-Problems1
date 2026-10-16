@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0704-binary-search) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +58,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
