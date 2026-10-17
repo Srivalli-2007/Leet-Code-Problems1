@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0643-maximum-average-subarray-i](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0704-binary-search) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0202-happy-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Counting
 |  |
 | ------- |
