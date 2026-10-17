@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0239-sliding-window-maximum](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0704-binary-search) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -77,4 +79,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Srivalli-2007/Leet-Code-Problems1/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
